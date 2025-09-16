@@ -1,17 +1,22 @@
 {
   "images" : [
     {
-      "filename" : "nasalogo.png",
+      "filename" : "NASA-Logo-Large 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "nasalogo 1.png",
+      "filename" : "NASA-Logo-Large.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "NASA-Logo-Large 2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "nasalogo 2.png",
+      "filename" : "NASA-Logo-Large 3.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
